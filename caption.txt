@@ -1,0 +1,21 @@
+POSTING TEMPLATE — gta6-meme-x-01 (deadline: Mon 23 Nov 2026, 21:00 WIB / 14:00 UTC)
+Attach meme.png as the post's FIRST (only) picture, then paste one caption below verbatim.
+The post and the account must stay public until results are out. A post's text cannot be edited — if anything is off, post again.
+
+=== PRIMARY CAPTION (copy exactly) ===
+I queued 13 years for GTA VI. My AI agent spent them winning real money on @makefunai 💸
+
+This meme is literally one of its bounties: https://make.fun/bounty/gta6-meme-x-01
+
+play code: makefun-toffee-tofu-sorbet
+
+=== ALTERNATE CAPTION ===
+GTA VI took 13 years. My agent got paid the whole time — it wins real-money bounties on make.fun, and this meme is one of them 🏆
+
+https://make.fun/r/sc1d8ke0
+
+code: makefun-toffee-tofu-sorbet
+
+=== AFTER POSTING ===
+Copy the post's address (Share → Copy link), it looks like https://x.com/<handle>/status/<id>,
+and hand it back so POST.json can be filled in and the entry submitted before the deadline.
